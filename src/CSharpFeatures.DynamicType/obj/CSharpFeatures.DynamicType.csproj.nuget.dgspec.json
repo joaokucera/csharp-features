@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.DynamicType/CSharpFeatures.DynamicType.csproj": {}
+  },
+  "projects": {
+    "/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.DynamicType/CSharpFeatures.DynamicType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.DynamicType/CSharpFeatures.DynamicType.csproj",
+        "projectName": "CSharpFeatures.DynamicType",
+        "projectPath": "/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.DynamicType/CSharpFeatures.DynamicType.csproj",
+        "packagesPath": "/Users/joao.kucera/.nuget/packages/",
+        "outputPath": "/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.DynamicType/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joao.kucera/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.1, )"
+            },
+            "IronPython": {
+              "target": "Package",
+              "version": "[3.4.0-alpha1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/joao.kucera/.dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/bin/Debug/net6.0/CSharpFeatures.LinqImprovements
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/bin/Debug/net6.0/CSharpFeatures.LinqImprovements.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/bin/Debug/net6.0/CSharpFeatures.LinqImprovements.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/bin/Debug/net6.0/CSharpFeatures.LinqImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/bin/Debug/net6.0/ref/CSharpFeatures.LinqImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/bin/Debug/net6.0/CSharpFeatures.LinqImprovements.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/ref/CSharpFeatures.LinqImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.LinqImprovements/obj/Debug/net6.0/CSharpFeatures.LinqImprovements.genruntimeconfig.cache

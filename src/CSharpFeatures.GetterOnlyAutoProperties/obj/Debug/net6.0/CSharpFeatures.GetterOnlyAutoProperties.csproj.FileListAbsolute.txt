@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/bin/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/bin/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/bin/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/bin/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/bin/Debug/net6.0/ref/CSharpFeatures.GetterOnlyAutoProperties.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/bin/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/ref/CSharpFeatures.GetterOnlyAutoProperties.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GetterOnlyAutoProperties/obj/Debug/net6.0/CSharpFeatures.GetterOnlyAutoProperties.genruntimeconfig.cache

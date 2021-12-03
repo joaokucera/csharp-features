@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/bin/Debug/net6.0/CSharpFeatures.RecordStructs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/bin/Debug/net6.0/CSharpFeatures.RecordStructs.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/bin/Debug/net6.0/CSharpFeatures.RecordStructs.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/bin/Debug/net6.0/CSharpFeatures.RecordStructs.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/bin/Debug/net6.0/ref/CSharpFeatures.RecordStructs.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/bin/Debug/net6.0/CSharpFeatures.RecordStructs.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/ref/CSharpFeatures.RecordStructs.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.RecordStructs/obj/Debug/net6.0/CSharpFeatures.RecordStructs.genruntimeconfig.cache

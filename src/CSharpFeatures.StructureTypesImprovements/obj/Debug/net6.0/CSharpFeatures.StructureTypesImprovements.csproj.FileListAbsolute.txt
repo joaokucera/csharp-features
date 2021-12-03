@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/bin/Debug/net6.0/CSharpFeatures.StructureTypesImprovements
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/bin/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/bin/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/bin/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/bin/Debug/net6.0/ref/CSharpFeatures.StructureTypesImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/bin/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/ref/CSharpFeatures.StructureTypesImprovements.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.StructureTypesImprovements/obj/Debug/net6.0/CSharpFeatures.StructureTypesImprovements.genruntimeconfig.cache

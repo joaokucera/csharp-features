@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/bin/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/bin/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/bin/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/bin/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/bin/Debug/net6.0/ref/CSharpFeatures.FiledScopeNamespaces.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/bin/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/ref/CSharpFeatures.FiledScopeNamespaces.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.FiledScopeNamespaces/obj/Debug/net6.0/CSharpFeatures.FiledScopeNamespaces.genruntimeconfig.cache

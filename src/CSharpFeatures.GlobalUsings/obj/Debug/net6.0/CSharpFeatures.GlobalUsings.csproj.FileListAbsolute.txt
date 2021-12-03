@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/bin/Debug/net6.0/CSharpFeatures.GlobalUsings
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/bin/Debug/net6.0/CSharpFeatures.GlobalUsings.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/bin/Debug/net6.0/CSharpFeatures.GlobalUsings.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/bin/Debug/net6.0/CSharpFeatures.GlobalUsings.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/bin/Debug/net6.0/ref/CSharpFeatures.GlobalUsings.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/bin/Debug/net6.0/CSharpFeatures.GlobalUsings.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/ref/CSharpFeatures.GlobalUsings.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.GlobalUsings/obj/Debug/net6.0/CSharpFeatures.GlobalUsings.genruntimeconfig.cache

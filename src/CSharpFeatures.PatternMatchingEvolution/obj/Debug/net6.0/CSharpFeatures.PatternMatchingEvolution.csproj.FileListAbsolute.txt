@@ -1,0 +1,15 @@
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/bin/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/bin/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.deps.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/bin/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.runtimeconfig.json
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/bin/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/bin/Debug/net6.0/ref/CSharpFeatures.PatternMatchingEvolution.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/bin/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.csproj.AssemblyReference.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.AssemblyInfoInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.AssemblyInfo.cs
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.csproj.CoreCompileInputs.cache
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/ref/CSharpFeatures.PatternMatchingEvolution.dll
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.pdb
+/Users/joao.kucera/RiderProjects/CSharpFeatures/CSharpFeatures.PatternMatchingEvolution/obj/Debug/net6.0/CSharpFeatures.PatternMatchingEvolution.genruntimeconfig.cache
